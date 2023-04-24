@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kitchen_light_controller_parts")(type "KiCad")(uri "${KIPRJMOD}/kitchen_light_controller_parts.pretty")(options "")(descr ""))
+)
